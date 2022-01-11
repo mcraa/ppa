@@ -1,0 +1,6 @@
+[balena-etcher]
+name=balenaEtcehr
+baseurl=https://mcraa.github.io/ppa/rpm
+enabled=1
+gpgcheck=1
+gpgkey=https://mcraa.github.io/ppa/rpm/repodata/KEY.gpg
