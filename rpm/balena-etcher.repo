@@ -1,5 +1,5 @@
 [balena-etcher]
-name=balenaEtcehr
+name=balenaEtcher
 baseurl=https://mcraa.github.io/ppa/rpm
 enabled=1
 gpgcheck=1

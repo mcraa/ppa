@@ -10,3 +10,5 @@ curl -1sLf \
 ```
 sudo apt install balena-etcher-electron
 ```
+
+[RPM packages found here](https://mcraa.github.io/ppa/rpm)
