@@ -93,4 +93,5 @@ manager=""
 
 rpm --import https://mcraa.github.io/ppa/rpm/repodata/KEY.gpg
 
+detect_package_manager
 setup_repository
